@@ -1,0 +1,18 @@
+form {
+	width: 400px;
+	margin: 10px;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+form > label {
+	margin: 5px;
+}
+
+form > input {
+	margin: 5px 0;
+	border-radius: 3px;
+	padding: 3px;
+	font-size: 25px;
+	width: 400px;
+}
